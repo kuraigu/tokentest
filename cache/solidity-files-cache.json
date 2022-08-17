@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\Development\\definitetoken\\contracts\\DefiniteToken.sol": {
+      "lastModificationDate": 1660678386116,
+      "contentHash": "9c5db1a0b6e078e8bf05456c0e25a7e8",
+      "sourceName": "contracts/DefiniteToken.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "DefiniteToken"
+      ]
+    }
+  }
+}
