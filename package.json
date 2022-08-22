@@ -1,5 +1,6 @@
 {
   "name": "definitetoken",
+  "type": "commonjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +23,8 @@
     "hardhat": "^2.10.2"
   },
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.1",
+    "xhr2": "^0.2.1"
   }
 }
